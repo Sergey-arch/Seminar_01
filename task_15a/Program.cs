@@ -1,9 +1,9 @@
 ﻿// Дано число. Проверить кратно ли оно 7 и 23
 
-for(int j = 0; j<=1000; j++)
+for(int j = 1; j<=1000; j++)
     {
         if (j % 7 == 0 && j % 23 == 0)
-         Console.WriteLine("%d " + j);
+         Console.WriteLine("Делится на 7 и на 23 ~ " + j);
     }
 
 
