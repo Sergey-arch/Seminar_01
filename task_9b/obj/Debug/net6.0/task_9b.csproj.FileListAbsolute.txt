@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\bin\Debug\net6.0\task_9b.exe
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\bin\Debug\net6.0\task_9b.deps.json
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\bin\Debug\net6.0\task_9b.runtimeconfig.json
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\bin\Debug\net6.0\task_9b.dll
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\bin\Debug\net6.0\ref\task_9b.dll
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\bin\Debug\net6.0\task_9b.pdb
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.dll
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\ref\task_9b.dll
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.pdb
+C:\Users\Sergey\Desktop\Seminar_01\task_9b\obj\Debug\net6.0\task_9b.genruntimeconfig.cache
