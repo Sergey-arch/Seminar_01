@@ -1,14 +1,8 @@
 ﻿// Найти третью цифру числа или сообщить, что её нет
 
-int numberA = new Random().Next(10, 999); // 10, 11, ... 998
-Console.WriteLine("numberA = " + numberA);
 
-if (numberA /100 % 10 == 0)
-{
-    Console.WriteLine("Третья цифра в числе numberA = " + numberA + " Отсутствует");
-}
-else
-{
-    int result = numberA % 10;
-    Console.WriteLine("Третья цифра от числа numberA = " + result);
-}
+int numberA = new Random().Next(1000, 10000);
+Console.WriteLine("numberA = " + numberA);
+string s1 = numberA.ToString();
+if (s1.Length < 3) Console.WriteLine("Третья цифра в числе numberA = " + s1 + " Отсутствует");
+else Console.WriteLine("Третья цифра в числе numberA = " + s1[2]);

@@ -1,11 +1,6 @@
 ﻿// Найти третью цифру числа или сообщить, что её нет
 
-int EndNumber(int number)
-{
-    int result = number % 10;
-    
-    return result;
-}
-Console.Write("Введите Трехзначное число = ");
-int num = int.Parse(Console.ReadLine());
-Console.WriteLine("последняя цифра трёхзначного числа = " + EndNumber(num));
+Console.Write("Введите число = ");
+string a = Console.ReadLine();
+if (a.Length < 3) Console.WriteLine("Третья цифра в числе numberA = " + a + " Отсутствует");
+else Console.WriteLine("Третья цифра в числе numberA = " + a[2]);
