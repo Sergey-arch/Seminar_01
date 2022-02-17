@@ -13,6 +13,5 @@ if (numberA % numberB == 0)
 else
 {
     Console.WriteLine("число " + numberA + " Не является кратным " + numberB);
-    int result = numberA % numberB;
-    Console.WriteLine("Остаток от числа numberA = " + result);
+    Console.WriteLine("Остаток от числа numberA = " + numberA % numberB);
 }

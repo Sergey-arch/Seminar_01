@@ -3,7 +3,7 @@
 int numberA = new Random().Next(160, 163); // 10, 11, ... 1000
 Console.WriteLine("numberA = " + numberA);
 
-if (numberA % 7 == 0) 
+if (numberA % 7 == 0) // Можно вот так: if (numberA % 7 == 0 && numberA % 23)
 {
     if (numberA % 23 == 0)
     {
