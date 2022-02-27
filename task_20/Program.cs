@@ -13,6 +13,7 @@ else if (x > 0 && y < 0) Console.WriteLine("IV четверть");
 else if (x == 0 || y == 0) Console.WriteLine("Лежит на оси");
 */
 
+/*
 Console.Write("Введите четверть: ");
 double num = Convert.ToDouble(Console.ReadLine());
 
@@ -40,32 +41,34 @@ if (num == 2) Console.WriteLine("II четверть");
     while (y2 <= n3) Console.Write(" y " + y2, y2++);
 }
 Console.WriteLine();
+*/
 
 
 
 
-/*
 int Num(int x, int y)
 {
     int i = 1;
     int n = 10;
-    
-    {
-        while (i <= n) Console.Write(" х " + i, i++);
-        int i = 1;
-        int n = 10; 
-        return x;
-    }
+
+    while (i <= n) Console.Write(" х " + i, i++);
+    int i = 1;
+    int n = 10; 
+    return x;
+
 }
 
 Console.Write("Введите четверть от 1 до 4: ");
 int num = int.Parse(Console.ReadLine());
 if (num < 1 || num > 4) Console.Write("Не верно ввели четверть ");
 else if (num == 1) Console.WriteLine("I четверть ");
-{
-    int x = Num(num);
-}
+
+
+int x = Num(num);
+
 
 
 //int x = Num(num);
-*/
+
+
+
